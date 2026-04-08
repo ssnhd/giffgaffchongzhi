@@ -5,5 +5,5 @@
 
 2. 点击 **Or redeem a voucher**。
 ![](https://i.imgur.com/dFVn9TL.png)
-3. 输入 16 位码充值券码（购买请联系[客服](https://github.com/ssnhd/sim)），勾选同意，点击 **Redeem**。
+3. 输入 16 位码充值券码[（点击购买充值码）](https://github.com/ssnhd/sim)，勾选同意，点击 **Redeem**。
 ![](https://i.imgur.com/t4eivW0.png)
